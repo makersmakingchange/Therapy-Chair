@@ -1,7 +1,7 @@
 # Therapy Chair
 ATP's, PT's, and OT's working with children with physical disabilities often need an appropriate seating system to provide support to enable the kiddo to engage with their environment and participate in strengthening exercises. In the past we measured each child and built it, usually out of triwall, to their size to ensure a good fit. The benefit of this new design is the chair is more durable/easier to clean than triwall and is adjustable. It resembles Swiss cheese to allow placement of laterals virtually anywhere. It can work as a chair or floor sitter. It can incline forward 5 degrees or lay all the way back flat. At the time we are writing this, the cost came in around $100/chair for 7 chairs that we made. This isn't going to work for every kiddo, but we leave it up to you to adapt it further for your unique situation.
 
-<img src="Photos/therapy-chair.jpg" width="500" alt="Picture of Therapy Chair.">
+<img src="Photos/therapy-chair.webp" width="500" alt="Picture of Therapy Chair.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/therapy-chair/)
