@@ -1,12 +1,12 @@
 # Therapy Chair
 ATP's, PT's, and OT's working with children with physical disabilities often need an appropriate seating system to provide support to enable the kiddo to engage with their environment and participate in strengthening exercises. In the past we measured each child and built it, usually out of triwall, to their size to ensure a good fit. The benefit of this new design is the chair is more durable/easier to clean than triwall and is adjustable. It resembles Swiss cheese to allow placement of laterals virtually anywhere. It can work as a chair or floor sitter. It can incline forward 5 degrees or lay all the way back flat. At the time we are writing this, the cost came in around $100/chair for 7 chairs that we made. This isn't going to work for every kiddo, but we leave it up to you to adapt it further for your unique situation.
 
-<img src="Photos/therapy-chair.webp" width="500" alt="Picture of Therapy Chair.">
+<img src="Photos/therapy-chair.jpg" style="max-width: 500px; max-height: 500px; height: auto; width: auto;" alt="Picture of Therapy Chair.">
 
+<!--
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/therapy-chair/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/therapy-chair/)
-
+-->
 
 ## How to Obtain a Therapy Chair
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -69,8 +69,9 @@ Everything needed or used to design, make, test, or prepare the Therapy Chair is
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the THerapy Chair are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
 
----
+----
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -86,5 +87,5 @@ We are committed to creating a network of volunteer makers who support people wi
 
 
 ## Contact Us
-
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
