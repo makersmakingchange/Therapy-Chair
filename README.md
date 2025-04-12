@@ -1,7 +1,7 @@
 # Therapy Chair
 ATP's, PT's, and OT's working with children with physical disabilities often need an appropriate seating system to provide support to enable the kiddo to engage with their environment and participate in strengthening exercises. In the past we measured each child and built it, usually out of triwall, to their size to ensure a good fit. The benefit of this new design is the chair is more durable/easier to clean than triwall and is adjustable. It resembles Swiss cheese to allow placement of laterals virtually anywhere. It can work as a chair or floor sitter. It can incline forward 5 degrees or lay all the way back flat. At the time we are writing this, the cost came in around $100/chair for 7 chairs that we made. This isn't going to work for every kiddo, but we leave it up to you to adapt it further for your unique situation.
 
-<img src="Photos/therapy-chair.jpg" style="max-width: 500px; max-height: 500px; height: auto; width: auto;" alt="Picture of Therapy Chair.">
+<img src="Photos/therapy-chair.jpg" height="250" alt="Picture of Therapy Chair.">
 
 <!--
 ## More info at
@@ -13,6 +13,7 @@ ATP's, PT's, and OT's working with children with physical disabilities often nee
 
 This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Therapy Chair are contained within this repository. Refer to the Maker Checklist below.
 
+<!--
 ### 2. Request a build of this device
 
 If you would like to obtain a Therapy Chair, you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/therapy-chair/). The requestor is responsible for the cost of materials and any shipping.
@@ -20,7 +21,7 @@ If you would like to obtain a Therapy Chair, you may submit a build request thro
 ### 3. How to build this device for someone else
 
 If you have the skills and equipment to build this device, and would like to donate your time to create the switch for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
-
+-->
 
 ## Getting Started
 
